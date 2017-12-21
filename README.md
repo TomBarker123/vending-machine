@@ -1,2 +1,2 @@
 # vending-machine
-Ve
+Vending machine written in Java.
